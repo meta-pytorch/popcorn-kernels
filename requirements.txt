@@ -28,7 +28,7 @@ astor==0.8.1
 # Utilities
 tqdm==4.67.1
 matplotlib==3.9.4
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 tomli==2.2.1
 
 # LLM and API
