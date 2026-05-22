@@ -15,7 +15,7 @@ pyarrow==19.0.0
 datasketch==1.6.5
 
 # Testing and Validation
-pytest==8.3.4
+pytest==9.0.3
 hypothesis==6.125.2
 expecttest==0.3.0
 
